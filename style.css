@@ -1,0 +1,38 @@
+body {
+    position: relative;
+	margin: 0;
+    min-width: 1000px;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 32px;
+    color: #222222;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABlBMVEX///+pqalTpKl9AAAAAnRSTlMAGovxNEIAAAAdSURBVDjLY2AAAUaG4UYxDDsfjfp91O+jfqfE7wCzpQCw/dq+qQAAAABJRU5ErkJggg==");
+}
+
+header {
+    height:36px;
+    background-color: #f1c40f;
+    color: #2c3e50;
+}
+
+h1 {
+    font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 300px;
+}
+
+form {
+    margin-left: 300px;
+}
+
+.b1 {
+    background: #ffdb58;
+    color: #222222;
+    font-size: 16px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px 5px;
+    margin-right: 10px;
+}
